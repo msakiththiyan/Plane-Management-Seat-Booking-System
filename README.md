@@ -22,4 +22,4 @@ This Java application manages seat bookings for a plane, allowing users to buy, 
 1. Ensure you have Java installed on your system.
 2. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/msakiththiyan/Plane-Management-Seat-Booking-System.git
